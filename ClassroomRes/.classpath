@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ActionTag"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Concert"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Controller"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EL_JSTL"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ErrorPage"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GetPost"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HelloWorld"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JdbcTest"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSPObject"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSPTag"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Servlet"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (5)"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
